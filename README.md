@@ -2,8 +2,7 @@
 
 Cloud-tested authoring package, September 17, 2026. Eleven infrastructure checks,
 ten local tests, all four event-driven cloud exercises, and Task 2's actual
-Cloud Shell checks/repackaging pass. Publication
-still requires a fresh learner-role dry run, timing check, and green-button work.
+Cloud Shell checks/repackaging pass.
 
 ## Agreed scope
 
@@ -15,9 +14,6 @@ still requires a fresh learner-role dry run, timing check, and green-button work
 - Supporting infrastructure is prepared for learners. Convert the proven setup
   to Terraform and integrate with the green-button platform in a later phase.
 
-The newer inventory storyboard (`Functions Live Lab.pdf`) takes precedence over
-the older planning brief's proposed API Gateway scenario. The title is retained
-from the planning brief. No API Gateway is part of this lab.
 
 ## Package layout
 
